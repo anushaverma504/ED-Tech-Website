@@ -1,0 +1,98 @@
+.container{
+    display: inline-flex;
+    margin: 50px 10px 10px 50px;
+    padding: 10px 10px 10px 50px;
+    width: 100%;
+}
+.container .first{
+    width: 50%;
+    height: 100%;
+    padding: 50px 0 0 120px;
+}
+.container .second{
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding: 50px 0 0 160px;
+}
+.explore{
+    text-align: center;
+}
+.explore .button{
+    padding-left: 20px;
+    margin-left: 30px;
+}
+
+.explore .card{
+    display: inline-flex;
+    margin: 0 20px 0 20px;
+
+}
+ 
+.container2{
+    margin-left: 400px;
+    border: 2px;
+}
+.container2 .first{
+    height: 200px;
+    width: 600px;
+    background-color: rgb(10, 116, 221);
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.container2 .first h3{
+    color: whitesmoke;
+}
+.container2 .second{
+    height: 400px;
+    width: 600px;
+    border-radius: 6px;
+    background-color: rgb(229, 234, 238);
+}
+.part1{
+    height: 45px;
+    display: inline-flex;    
+}
+.p11{
+width: 200px;
+text-align: center;
+margin: 0 30px 0 70px;
+background-color: black;
+color: aliceblue;
+border-radius: 20px;
+padding-top: 2px;
+}
+.p12{
+    width: 200px;
+    margin: 0 30px 0 30px;
+    text-align: center;
+    background-color:black;
+    color: aliceblue;
+    border-radius: 20px;
+    padding-top: 2px;
+    }
+.part2{
+    background-color: black;
+    color: aliceblue;
+    height: 100px;
+    width: 400px;
+    border-radius: 10px;
+    margin: 20px 30px 40px 100px;
+    padding: 25px 0 0px 0;
+    text-align: center;
+}
+.part3{
+    height: 45px;
+    display: inline-flex;     
+}
+.p41{
+    border-radius: 20px;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    width: 200px;
+    height: 40px;
+    margin: 40px 40px 30px 200px;
+    padding-top: 2px;
+}
